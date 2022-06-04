@@ -34,10 +34,10 @@ follow:
 
 
 1. The dataset contains multiple variables - date, open, high, low and close.
-2. 
-3. The column date contains the month and the year of the price of the share.
-4. 
-5. The columns Open and Close represent the starting and final price at which the
+ 
+2. The column date contains the month and the year of the price of the share.
+ 
+3. The columns Open and Close represent the starting and final price at which the
 stock is traded in a particular month.
 
 4. High and Low represent the maximum and minimum price of the share for the
@@ -52,21 +52,21 @@ variable.
 
 
 1. Importing important libraries to be used.
-2. 
-3. Mounting the drive and loading the dataset.
-4. 
-5. Exploratory data Analysis
-6. 
-7. Data extraction and manipulation.
-8. 
-9. Splitting the data using TimeseriesSplit.
-10. 
-11. Fitting the dataset over various models like linear regression, random
+ 
+2. Mounting the drive and loading the dataset.
+ 
+3. Exploratory data Analysis
+ 
+4. Data extraction and manipulation.
+ 
+5. Splitting the data using TimeseriesSplit.
+ 
+6. Fitting the dataset over various models like linear regression, random
 forest, KNN, XGBoost, Gradient Boost.
 
 7. Using Facebook Prophet library for lag creation and forecasting.
-8. 
-9. Using Auto ARIMA to better understand the data set and predicting
+ 
+8. Using Auto ARIMA to better understand the data set and predicting
 future trends.
 
 
